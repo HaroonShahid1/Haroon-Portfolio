@@ -127,12 +127,12 @@
     }
     .about-img img{
         width: 90%;
-        height: 400px;
+        height: 340px;
         padding: 5px;
     }
     .about-img {
         width: 90%;
-        height: 420px;
+        height: 340px;
         text-align: center;
         overflow: hidden;
     }
@@ -309,7 +309,7 @@
             }
             
             .contact-info-icon-text p {
-                font-size: 14px;
+                font-size: 12px;
                 opacity: .7;
             }
             
