@@ -33,6 +33,7 @@
         flex-direction: row;
         align-items: center;
         justify-content: center;
+        margin-bottom: 10%;
     }
     .header-content-box{
         padding-left: 0px;
