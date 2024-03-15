@@ -254,8 +254,8 @@
                 margin-bottom: 25px;
                 position: relative;
                 overflow: hidden;
-                box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); /* Add shadow */
-                transition: transform 0.3s ease; /* Add transition for hover effect */
+                box-shadow: 5px 2px 45px rgb(255 255 255 / 30%);
+                transition: transform 0.3s ease;
             }
             
             .contact-info::before {
