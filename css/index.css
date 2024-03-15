@@ -28,28 +28,11 @@ input::-webkit-inner-spin-button {
   margin: 0;
 }
 
-/* Firefox */
-input[type=number] {
-  -moz-appearance: textfield;
+
+html{
+background: #101010;
+
 }
-  html{
-    background: #101010;
-    
-  }
-  #loader{
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-      height:100vh;
-      position: fixed;
-      z-index:100;
-      font-family: poppins;
-      background-color: #202020;
-      color: whitesmoke;
-      font-size: 70px;
-      width: 100%;
-  }
 body{
     user-select: none;
     height: auto;
