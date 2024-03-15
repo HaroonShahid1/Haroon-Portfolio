@@ -88,7 +88,7 @@
     .about-first-paragraph{
         color: whitesmoke;
         justify-content: center;
-        font-size: 40px;
+        font-size: 30px;
         font-family: poppins;
         width: 95%;
         padding: 25px;
@@ -119,12 +119,12 @@
     }
     .about-img img{
         width: 90%;
-        height: 360px;
+        height: 330px;
         padding: 5px;
     }
     .about-img {
         width: 90%;
-        height: 360px;
+        height: 330px;
         text-align: center;
         overflow: hidden;
     }
