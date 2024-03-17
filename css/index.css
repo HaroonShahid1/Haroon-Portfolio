@@ -419,6 +419,24 @@ body{
     color: #0aa9c9;
     transition: all .4s ease;
 }
+
+/* CSS BACKGROUND FLOWING ANIMATION */
+.color-main{
+    font-size: 70px;
+    line-height: 120px;
+    color: transparent;
+    background: url(../images/back2.png);
+    -webkit-background-clip: text;
+    background-position: 0 0;
+    animation: back 20s linear infinite;
+}
+
+@keyframes back{
+    100%{
+        background-position: 4000px 0;
+    }
+}
+
 #about{
     background-color: #101010;
     display: none;
